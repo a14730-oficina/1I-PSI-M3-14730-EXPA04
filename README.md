@@ -1,4 +1,4 @@
-# 1I-PSI-M3-NumeroAluno-EXPA04
+# 1I-PSI-M3-14730-EXPA04
 <h3> APLICAÇÃO DE PEDIDOS </h3>
 Criar um programa em Python que permita ao departamento de manutenção de equipamentos informáticos gerir pedidos de forma eficiente, utilizando funções para modularidade e organização do código.
 
