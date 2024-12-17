@@ -15,11 +15,15 @@ Exibir uma mensagem de confirmação ao concluir a exportação dos resultados.
 <h3> EXPLICAÇÃO DO FUNCIONAMENTO </h3>
 
 #registar_pedido()
+
 #Função registar_pedido faz com que o nosso pedido fique registado no programa.
+
 #consultar_pedido()
 #Função consultar_pedido faz com que o utilizador veja como tá o pedido.
+
 #exibir_pedidos()
 #Função exibir_pedidos faz com que o utilizador possa ver os pedidos.
+
 #def main()
 #Função def main é a função principal para gerir os pedidos
 
